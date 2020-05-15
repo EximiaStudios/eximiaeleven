@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### License
+© 2020 Eximia Eleven. All rights reserved for all graphics, assets, arts, and other similar-typed contents.
+
+Anything else are licensed under [GPL-3.0 license](https://github.com/EximiaStudios/eximiastudios/blob/master/LICENSE).
