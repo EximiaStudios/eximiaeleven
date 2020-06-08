@@ -5,7 +5,7 @@
         <h1>The page you're looking for does not exist.</h1>
       </Center>
     </div>
-    <ExFooter>© 2020 Eximia Eleven.</ExFooter>
+    <ExFooter />
   </div>
 </template>
 

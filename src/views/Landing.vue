@@ -18,7 +18,7 @@
         </svg>
       </a>
     </Center>
-    <ExFooter>© 2020 Eximia Eleven.</ExFooter>
+    <ExFooter />
   </div>
 </template>
 

@@ -1,9 +1,7 @@
 <template>
   <div>
     <footer>
-      <Center>
-        <slot></slot>
-      </Center>
+      <Center> © 2020 {{ company }}. </Center>
     </footer>
   </div>
 </template>
@@ -12,6 +10,13 @@
 import Center from "@/components/Center.vue";
 
 export default {
+  name: "ExFooter",
+  props: {
+    company: {
+      default: "Eximia Eleven",
+      type: String
+    }
+  },
   components: {
     Center
   }
